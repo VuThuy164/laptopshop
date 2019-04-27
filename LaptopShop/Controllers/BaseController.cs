@@ -9,7 +9,7 @@ namespace LaptopShop.Controllers
 {
     public class BaseController : Controller
     {
-        // thuy
+
         // GET: Base
         public static string  loginsession = "loginsession";
         protected override void OnActionExecuting(ActionExecutingContext filterContext)
