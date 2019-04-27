@@ -5,6 +5,7 @@ using System.Web;
 using System.Web.Mvc;
 using LaptopShop.Models;
 using Model.Dao;
+using Model.EF;
 
 namespace LaptopShop.Areas.Admin.Controllers
 {
@@ -29,9 +30,18 @@ namespace LaptopShop.Areas.Admin.Controllers
             else
             {
                 ModelState.AddModelError("", "Đăng nhập không đúng hoặc chưa đăng ký");
-                
+
             }
             return View("Index");
+        }
+
+        public ActionResult Logout()
+        {
+            var dao = new UserDao();
+            var _userLogin = (user)Session["loginsession"];
+
+            Session[loginsession] = null;
+            return RedirectToAction("Index", "Home");
         }
     }
 }

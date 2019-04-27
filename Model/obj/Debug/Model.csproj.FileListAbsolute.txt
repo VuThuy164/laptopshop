@@ -40,3 +40,25 @@ C:\Users\nguye\Desktop\LaptopShop\LaptopShop\Model\obj\Debug\Model.csproj.CopyCo
 C:\Users\nguye\Desktop\LaptopShop\LaptopShop\Model\obj\Debug\Model.dll
 C:\Users\nguye\Desktop\LaptopShop\LaptopShop\Model\obj\Debug\Model.pdb
 C:\Users\nguye\Desktop\LaptopShop\LaptopShop\Model\obj\Debug\Model.Migrations.addtablerole.resources
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\bin\Debug\Model.dll.config
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\bin\Debug\Model.dll
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\bin\Debug\Model.pdb
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\bin\Debug\EntityFramework.dll
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\bin\Debug\PagedList.dll
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\bin\Debug\PagedList.Mvc.dll
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\bin\Debug\EntityFramework.xml
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\bin\Debug\PagedList.xml
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\bin\Debug\PagedList.Mvc.xml
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\obj\Debug\Model.csprojAssemblyReference.cache
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\obj\Debug\Model.Migrations.addusername_in_user_table.resources
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\obj\Debug\Model.Migrations.updateproduct.resources
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\obj\Debug\Model.Migrations.sua_isale_default_value.resources
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\obj\Debug\Model.Migrations.sua_isale_default_valuegjhjh.resources
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\obj\Debug\Model.Migrations.addtablerole.resources
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\obj\Debug\Model.csproj.GenerateResource.cache
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\obj\Debug\Model.csproj.CoreCompileInputs.cache
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\obj\Debug\Model.csproj.CopyComplete
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\obj\Debug\Model.dll
+C:\Users\nguye\Desktop\LaptopShop\New folder\laptopshop\Model\obj\Debug\Model.pdb

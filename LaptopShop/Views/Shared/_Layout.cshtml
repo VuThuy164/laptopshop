@@ -1,4 +1,6 @@
-﻿<!DOCTYPE html>
+﻿@using Model.EF
+
+<!DOCTYPE html>
 <html>
 <head>
     <meta charset="utf-8" />
@@ -31,10 +33,28 @@
                 </div>
                 <div class="pull-right auto-width-right">
                     <ul class="top-details menu-beta l-inline">
+                        @{
+                            user _user = new user();
+                        }
                         @if (Session["loginsession"] != null)
                         {
-                            <li><a href="/Admin/Home/Index"><i class="fa fa-user"></i>Tài khoản</a></li>
+                            _user = (user)Session["loginsession"];
                         }
+
+                        @if (_user.RoleID == 1)
+                        {
+                            <li><a href="/Admin/Home/Index"><i class="fa fa-user"></i>Xin chào @_user.full_name</a></li>
+                        }
+                        @if (_user.RoleID == 2)
+                        {
+                            <li><a href="/Profile/Index"><i class="fa fa-user"></i>Xin chào @_user.full_name</a></li>
+                        }
+                        @if (Session["loginsession"] != null)
+                        {
+                            _user = (user)Session["loginsession"];
+                            <li><a href="/Login/Logout"><i class="fa fa-user"></i>Đăng xuất</a></li>
+                        }
+
 
                         @if (Session["loginsession"] == null)
                         {
